@@ -4,10 +4,10 @@
 Here is an example:
 
 1) If there is no result found
-![no-result](Screenshot_no.png)
+![no-result](screenshot_no.png)
 
 2) Employee card
-![employee-card](Screenshot.png)
+![employee-card](screenshot.png)
 
 3) If there is some error in connection
-![error](Screenshot_error.png)
+![error](screenshot_error.png)
